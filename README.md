@@ -1,4 +1,27 @@
-<h2 align="left">👋 Hi, I’m Pratheek Rao K B<br>I'm a Computer Science and Engineering student at LBS College of Engineering, Kasaragod, with a passion for technology and innovation. I'm currently diving deep into various aspects of computer science, from full-stack web development to data analysis and machine learning.<br><br>👀 My Interests<br>Web Development: Creating responsive and dynamic web applications using HTML, CSS, JavaScript, and Django.<br>Data Science & Machine Learning: Exploring data patterns and building predictive models.<br>Cybersecurity: Learning about network security, ethical hacking, and data protection.<br>Software Development: Writing clean and efficient code in Python, Java, and other programming languages.<br>🌱 Currently Learning<br>Advanced concepts in computer science as part of my B.Tech CSE curriculum.<br>Full-stack web development, focusing on front-end frameworks and back-end technologies.<br>Enhancing my knowledge of databases, particularly MySQL and PostgreSQL.<br>Real-world application of machine learning algorithms.<br>📫 How to Reach Me<br>Gmail: pratheekmulleria@gmail.com</h2>
+### 👋 Hi, I’m Pratheek Rao K B
+
+I'm a Computer Science student at LBS College of Engineering, Kasaragod, passionate about technology and innovation. I specialize in full-stack web development, AI, and machine learning.
+<h2 align="left">
+
+
+### 👀 My Interests
+
+- **Web Development**: Building responsive web apps using HTML, CSS, JavaScript, and Django.
+- **AI & Machine Learning**: Developing intelligent solutions and exploring new algorithms.
+- **Cybersecurity**: Exploring network security, ethical hacking, and data protection.
+- **Software Development**: Proficient in Python, C and other programming languages.
+
+### 🌱 Currently Learning
+
+- Advanced computer science concepts and full-stack development.
+- Database management with MySQL and PostgreSQL.
+- Real-world machine learning applications.
+
+### 📫 Contact Me
+
+- **Email**: [pratheekmulleria@gmail.com](mailto:pratheekmulleria@gmail.com)
+
+</h2>
 
 ###
 
